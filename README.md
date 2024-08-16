@@ -8,6 +8,9 @@ This is a **Streamlit** application designed for exploring heart disease dataset
 - **Prediction Page**: Enter patient details to predict whether they have heart disease based on the trained Random Forest model.
 - **Interactive Visuals**: The app includes bar charts to visualize key statistics and distributions in the dataset.
 
+## Demo
+https://github.com/user-attachments/assets/7190638b-02e1-4ce3-a4e3-5f9d1a6415ec
+
 ## Setup and Installation
 
 To run the app locally, follow these steps:
